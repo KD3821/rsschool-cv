@@ -67,6 +67,7 @@ class SomeView(APIView):
                 return Response({'some_1': model_1}, status=status.HTTP_200_OK)
         return Response({'some_1': model_1}, status=status.HTTP_200_OK)
 ```
+
 ### EDUCATION
 **ITMO UNIVERSITY, ST.PETERSBURG, RUSSIA, WEB DEVELOPER**
 [Graduation project](https://github.com/KD3821/email_chimp)
