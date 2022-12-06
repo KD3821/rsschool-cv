@@ -1,6 +1,6 @@
-![DK photo](photo_acc.jpeg)
+![DK photo](photo-acc-bw.jpg.jpeg)
 
-### Denis Korolev
+### Denis Demenis
 _devsboom@gmail.com_
 **junior web developer**
 
