@@ -1,4 +1,4 @@
-![DK photo](photo-acc-bw.jpg.jpeg)
+![DK photo](photo-acc-bw.jpg)
 
 ### Denis Demenis
 _devsboom@gmail.com_
