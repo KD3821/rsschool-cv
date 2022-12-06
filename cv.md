@@ -1,8 +1,8 @@
-![DK photo](photo-acc.jpg)
+![DK photo](photo-acc.jpeg)
 
 ### Denis Korolev
-_ devsboom@gmail.com_
-** junior web developer **
+_devsboom@gmail.com_
+**junior web developer**
 
 _A junior web developer willing to grow as a full-stack specialist. With 1 year of
 hand-on experience in developing & deploying web apps using Python web frameworks.
@@ -68,8 +68,8 @@ class SomeView(APIView):
         return Response({'some_1': model_1}, status=status.HTTP_200_OK)
 ```
 
-### EDUCATION
-**ITMO UNIVERSITY, ST.PETERSBURG, RUSSIA, WEB DEVELOPER**
-[Graduation project](https://github.com/KD3821/email_chimp)
+#### EDUCATION
+**ITMO UNIVERSITY, ST.PETERSBURG, RUSSIA, WEB DEVELOPER
+[Graduation project](https://github.com/KD3821/email_chimp)**
 
-### ENGLISH (B1)
+#### ENGLISH (level B1)
