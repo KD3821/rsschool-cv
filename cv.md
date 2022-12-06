@@ -1,4 +1,4 @@
-![DK photo](photo-acc.jpeg)
+![DK photo](photo_acc.jpeg)
 
 ### Denis Korolev
 _devsboom@gmail.com_
