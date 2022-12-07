@@ -13,6 +13,8 @@
     text-align: left;
     border: 3px lightgrey solid;
     border-color: lightgrey;
+    padding: 15px;
+    border-spacing: 30px;
 }
 
 .main_block {
@@ -28,4 +30,16 @@
 .header_txt {
     color: rgb(77, 2, 2);
     font-size: 25px;
+}
+
+.my_td {
+    text-align: center;
+}
+
+.my_font {
+    font-size: 25px;
+}
+
+.my_font_sm {
+    font-size: 18px;
 }
