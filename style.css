@@ -1,0 +1,31 @@
+.profile {
+    width: 30%;
+    display: inline;
+}
+
+.academic, .work {
+    font-size: 1.1rem;
+    font-weight: bold; 
+}
+
+.my_table {
+    width: 60%;
+    text-align: left;
+    border: 3px lightgrey solid;
+    border-color: lightgrey;
+}
+
+.main_block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.exp {
+    vertical-align: top;
+}
+
+.header_txt {
+    color: rgb(77, 2, 2);
+    font-size: 25px;
+}
